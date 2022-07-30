@@ -1,4 +1,4 @@
-# boolsandhits
+# Bools And Hits
 bools and hits game
 This game is a guessing game.
 At the begining of the game the computer will make a random number which will be made out of 4 digits.
